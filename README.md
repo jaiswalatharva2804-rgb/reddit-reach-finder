@@ -1,14 +1,19 @@
-# Welcome to your Lovable project
+# Reddit Prospector
+
+see what we have to create that i wanna have a website for which i will provide a ui in which when we just search on the website that thing should go to a llm and then that llm provides u all the posts on lets suppose reddit regarding to that and give it to u so that u can scontact them and sell ur project
+so i just want u to create me a ui for this application
 
 This project was built with [Lovable](https://lovable.dev).
 
+**Live app**: https://reddit-reach-finder.lovable.app
+
 ## Build with Lovable
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/0995f73e-15c9-4842-9e06-7595ab0f8b15).
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- **Stay in sync**: every change made in Lovable is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
@@ -20,10 +25,3 @@ cd <repository-name>
 npm i
 npm run dev
 ```
-
-## Built with
-
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
