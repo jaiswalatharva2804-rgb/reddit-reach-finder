@@ -1,0 +1,3 @@
+- [ ] Choose the search workspace design and updated color scheme.
+- [ ] Build the UI-only Reddit opportunity search with example results.
+- [ ] Verify search, filtering, saved opportunities, and page layout.
