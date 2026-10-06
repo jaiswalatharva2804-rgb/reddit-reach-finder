@@ -8,3 +8,6 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+- Keep opportunity examples in a browser-safe data module and use in-memory UI state; this is a UI-only prototype, not a live search or persistent lead service.
+- Define workspace visuals through semantic global CSS tokens; this keeps all search and result surfaces consistent.
